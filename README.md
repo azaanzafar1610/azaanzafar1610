@@ -17,6 +17,7 @@
 These are the projects I have put on my CV, you can check them out by clicking directly on them!
 - [Bulk File Rename Tool + GUI](https://github.com/azaanzafar1610/bulkRenameFile)
 - [Mosque Prayer Time Scraper](https://github.com/azaanzafar1610/salah-time)
+- [YourHome - Family Organizer](https://github.com/azaanzafar1610/Final-Year-Project)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-azaan-zafar-60752b1b8) 
